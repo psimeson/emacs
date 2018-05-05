@@ -12,5 +12,7 @@
 
 (require 'init-company-mode)
 
+(require 'init-rust)
+
 (provide 'init)
 
